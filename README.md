@@ -1,7 +1,7 @@
 
 # Computer Vision
 
-Practices of for computer vision with Python
+Practices for computer vision with Python
 
 
 ## Tech Stack
