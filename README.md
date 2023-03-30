@@ -1,2 +1,0 @@
-# CV
-Computer vision projects
